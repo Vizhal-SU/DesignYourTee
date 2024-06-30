@@ -99,6 +99,23 @@ Developed a responsive full-stack e-commerce web application that supports custo
 
 ## <a name="images-🖼️"> Images 🖼️ </a>
 
+<div>
+    <img src="https://github.com/Vizhal-SU/DesignYourTee/assets/118242352/63d859f3-040c-4265-bec9-0b7c4c721993" alt="DesignYourTee Image 3" height="420px">  
+    <img src="https://github.com/Vizhal-SU/DesignYourTee/assets/118242352/6cd35ba0-7de1-48da-a8bb-7ce37ebe0610" alt="DesignYourTee Image 4" height="420px">
+    <img src="https://github.com/Vizhal-SU/DesignYourTee/assets/118242352/a2d3cef8-9809-49cd-8ce4-fc82e605a2e7" alt="DesignYourTee Image 5" height="420px">
+    <img src="https://github.com/Vizhal-SU/DesignYourTee/assets/118242352/19bbb318-2e38-49dc-abda-946a77418a9d" alt="DesignYourTee Image 6" height="420px">
+    <img src="https://github.com/Vizhal-SU/DesignYourTee/assets/118242352/f8585c63-ee77-48db-8fd0-c5f71fcadc6b" alt="DesignYourTee Image 2" height="380px">
+    <img src="https://github.com/Vizhal-SU/DesignYourTee/assets/118242352/41bce988-073b-48d0-ab23-7222f41fc969" alt="DesignYourTee Image 7" height="380px">
+    <img src="https://github.com/Vizhal-SU/DesignYourTee/assets/118242352/73a748d7-504c-4130-aa69-3277ac9b1a85" alt="DesignYourTee Image 8">
+    <img src="https://github.com/Vizhal-SU/DesignYourTee/assets/118242352/3c86aa34-3cb1-4feb-8573-f3de3c8eee8c" alt="DesignYourTee Image 9">
+    <img src="https://github.com/Vizhal-SU/DesignYourTee/assets/118242352/c099050b-33bb-4fb8-917c-4633a8baafc8" alt="DesignYourTee Image 10" height="450px">
+    <img src="https://github.com/Vizhal-SU/DesignYourTee/assets/118242352/55c6eb96-09c6-4eff-adc6-b918d74b365f" alt="DesignYourTee Image 11" height="450px">
+    <img src="https://github.com/Vizhal-SU/DesignYourTee/assets/118242352/a5db76fd-3eb6-4824-9189-90da48705852" alt="DesignYourTee Image 12" height="400px">
+    <img src="https://github.com/Vizhal-SU/DesignYourTee/assets/118242352/01f3cf42-f501-4173-bfa8-88f29309287f" alt="Screenshot 2024-06-30 231251" height="400px" width="700px">
+</div>
+
+
+
 ## <a name="videos-🎥"> Videos 🎥 </a>
 
 - [Login](https://drive.google.com/file/d/1kTzJbyXrN-nPFYiir1Hj3EG2Ejl55UZn/view?usp=sharing)
